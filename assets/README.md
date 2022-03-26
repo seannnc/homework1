@@ -1,0 +1,1 @@
+The goal of this project was to refactor the website to meet accessibility standards. I added semantic elements that follow a logical structure, ALT attributes to icon and image elements. Also modified heading attributes to fall into sequential order and added a more descriptive title.
